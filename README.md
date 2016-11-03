@@ -1,3 +1,4 @@
 # GAL-pro
 KHMJ-GAL-PRO
-1.pull test
+1.su used
+2.
